@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1> Hei there! :wave::owl::eyes: </h1>
+
+<p>
+    <a href="https://drive.google.com/drive/folders/1LHM9GTREACQl30u00lpV_MySo0ztRBSN?usp=sharing" target="_blank"><img src="./images/portfolio-badge.svg" height=25></a>
+    <a href="https://www.linkedin.com/in/lauraliisana" target="_blank"><img src="./images/linkedin-badge.svg" height=25></a>
+    <a href="https://dev.to/laulina" target="_blank"><img src="./images/devto-badge.svg" height=25></a>
+</p>
 
 <!--
 **laulina/laulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
