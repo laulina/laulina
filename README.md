@@ -1,10 +1,10 @@
 <h1> Hei there! :wave::owl::eyes: </h1>
 
 <p>
-    <a href="https://laulina.github.io/portfolio/" target="_blank"><img src="./images/portfolio-badge.svg" height=25></a>
-    <a href="https://drive.google.com/drive/folders/1LHM9GTREACQl30u00lpV_MySo0ztRBSN?usp=sharing" target="_blank"><img src="./images/googledrive-badge.svg" height=25></a>
-    <a href="https://www.linkedin.com/in/lauraliisana" target="_blank"><img src="./images/linkedin-badge.svg" height=25></a>
-    <a href="https://dev.to/laulina" target="_blank"><img src="./images/devto-badge.svg" height=25></a>
+    <a href="https://laulina.github.io/portfolio/" target="_blank"><img src="./images/badges/portfolio.svg" height=25></a>
+    <a href="https://www.linkedin.com/in/lauraliisana" target="_blank"><img src="./images/badges/linkedin.svg" height=25></a>
+    <a href="https://drive.google.com/drive/folders/1LHM9GTREACQl30u00lpV_MySo0ztRBSN?usp=sharing" target="_blank"><img src="./images/badges/gdrive-red.svg" height=25></a>
+    <a href="https://dev.to/laulina" target="_blank"><img src="./images/badges/devto.svg" height=25></a>
 </p>
 
 <!--
